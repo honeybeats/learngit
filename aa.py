@@ -2,3 +2,7 @@
 
 import requests
 
+class Build(object):
+
+    def __init__(self):
+        
